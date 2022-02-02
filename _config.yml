@@ -2,6 +2,10 @@
 # to run on localhost:
 #   bundle exec jekyll serve --livereload
 #
+# if you see big blue bars in the github pages version, ensure that 
+#    gem install jekyll-remote-theme 
+# has been run and is in Gemfile.
+#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
