@@ -33,8 +33,11 @@ title: page.support documentation
 description: >- # this means to ignore newlines until "baseurl:"
   Page.support publisher and web client documentation. 
 # baseurl: "/documentation" # the name of the repository hosting docs
+# baseurl is only needed if a project in a subdirectory of the main site
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://page-support.github.io/documentation" 
+# this is the full path to the CUSTOM DOMAIN of the documentation repository 
+# in our case. Using the github pages domain causes CORS errors in search
+url: "https://documentation.page.support" 
 # twitter_username: jekyllrb
 github_username:  page-support
 
