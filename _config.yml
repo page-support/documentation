@@ -29,8 +29,9 @@ title: page.support documentation
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Page.support publisher and web client documentation. 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://page-support.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/documentation" # the name of the repository hosting docs
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://page-support.github.io" 
 # twitter_username: jekyllrb
 github_username:  page-support
 
