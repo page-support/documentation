@@ -49,7 +49,7 @@ Error: Error: parse error [1:92]: Unknown character "'" in "(same(phoneType', [0
 Ask names must be single quoted - above phoneType' is missing the left hand single quote.
 
 
-If you are missing an argment in a formula, you may see an error like this
+If you are missing an argument in a formula, you may see an error like this
 
 ```
 Error: Error: unexpected TPAREN: ) in "(same('phoneType', ) or share('selectCountries', [0, 1])) and (not share('selectCountries', [2,3]))"
