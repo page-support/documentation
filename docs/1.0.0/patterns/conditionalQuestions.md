@@ -29,11 +29,10 @@ reply.name: gender
 [reply.values]
 * Male
 * Female
+* Non-binary
 -->
-Are you male or female?
-[Why only these two](...)
+Please select your gender.
 
-This text is not included in the ask
 ```
 
 Above we've telling the bot to execute the 'gender' question only if the user has accepted a question named TOSAccepted in a previous step. We've omitted the `say.ask` value, causing the parser to include the first markdown it encounters after the tag. Make sure to include an empty line after the markdown so the parser knows to discontinue using that text for the ask. Using markdown for the ask lets us include richer text in the question we present to the user - in this case a link to an explanation.  Markdown may be included in the ask including html comments, paragraphs, lists, headings, and images. See the unsupported markdown section for what is not supported. 
