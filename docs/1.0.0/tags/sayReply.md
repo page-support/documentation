@@ -85,11 +85,11 @@ The `[reply.values]` key is followed by a list of replies the user may select fr
 
 In a different scenario, you may want the bot to accept multiple replies from a list, for example choosing which toppings to put on a pizza.  For that use `say.type: multiple` and the bot will let the user pick as many replies as they want from a list.
 
-The system comes with a set of built in replies that can be referred to instead of specified. Built in replies include 
+The system comes with a set of built in replies that can be referred to instead of specified. The reply names of built in replies include 
 
 - yes 
 - true
 - done
 - accept
 
-See [here](TODO) for the full list.
+See [here](https://github.com/page-support/web-client/blob/6d481d933ace9cfb57aee885309d343dfee30312/src/state/BuiltInReplies.js) for the full list.
