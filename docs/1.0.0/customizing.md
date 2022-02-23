@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Customizing
-nav_order: 4 
+nav_order: 5 
 parent: Version 1.0.0
 ---
 

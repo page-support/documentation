@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Errors
-nav_order: 6
+nav_order: 7
 parent: Version 1.0.0
 ---
 
