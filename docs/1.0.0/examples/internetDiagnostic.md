@@ -10,6 +10,8 @@ A hypothetical support conversation when an ISP user calls in to ask why their i
 
 ```
 <!-- query: internet is down -->
+## Having problems connecting to the internet?
+This diagnostic will help you identify the problem and recommend a solution.
 
 <!-- [phrasing] 
 * my router doesn't work
