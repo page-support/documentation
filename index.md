@@ -5,6 +5,7 @@ nav_order: 1
 description: "Page.support is a fast no code solution for automating support"
 permalink: /
 ---
+
 # Page.support documentation
 
 ## Why page.support
@@ -37,3 +38,12 @@ Inside the HTML comment, the parser looks for [ArchieML](http://archieml.org/) k
 We'll refer to the notation inside the HTML comment as a comment tag or just "tag".  Comment tags define how the bot behaves. Regular markdown content outside HTML comments is used to define what the bot says in voice interfaces, and what it shows the user in GUI interfaces. Tags also define inputs accepted from the user. Tags add interactivity and workflow to what would otherwise be a static web page. For instance they add slot filing (asking questions) and the ability to present content dependent on the user's answers to previous questions - standard parts of a chatbot or web app workflow.
 
 See the detailed documentation under the appropriate version link in the sidebar.
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-69Z13M3BDG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-69Z13M3BDG');
+</script>
