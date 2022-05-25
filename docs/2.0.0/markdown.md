@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Markdown
-parent: Version 1.0.0
+parent: Version 2.0.0
 nav_order: 6
 ---
 

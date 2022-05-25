@@ -2,7 +2,7 @@
 layout: default
 title: Internet Diagnostic Example
 parent: Examples
-grand_parent: Version 1.0.0
+grand_parent: Version 2.0.0
 nav_order: 2
 ---
 
